@@ -37,3 +37,11 @@ A visually engaging Power BI Dashboard built to analyze Spotify data. It include
 | `streams`        | Weekly stream count (for top200 charts only)    |
 
 ---
+## 🛠️ Tools & Technologies
+
+- **Power BI Desktop**
+- **Data Source**: Weekly Spotify Charts CSVs
+- **Python (Optional)** for combining and cleaning datasets  
+  - Libraries: `pandas`, `glob`, `os`
+
+---

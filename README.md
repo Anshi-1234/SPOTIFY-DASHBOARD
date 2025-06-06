@@ -17,3 +17,8 @@ A visually engaging Power BI Dashboard built to analyze Spotify data. It include
   - Total Artists  
 
 ---
+## 📁 Data Source
+
+- Official data from **[Spotify Charts](https://spotifycharts.com/)**
+- Data Period: **Weekly files from 01 Jan 2025 to 06 May 2025**
+- Files downloaded manually each week
